@@ -51,6 +51,6 @@ even without the control hub there's plenty of research and coding to be done!
 
 ## the software team!
 
-captain: lake
+captain: Lake
 
 -   email: patience.gifford23@trinityschoolnyc.org
